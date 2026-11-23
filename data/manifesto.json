@@ -1,4 +1,4 @@
-﻿{
+{
   "dataset_id": "chamados-v1",
   "origem": "Exemplos sintéticos criados para a Atividade Prática 04",
   "arquivos": ["data/chamados.csv.dvc", "data/split.csv.dvc"],
